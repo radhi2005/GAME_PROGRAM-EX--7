@@ -1,4 +1,6 @@
 # GAME_PROGRAM-EX--7
+# NAME : RADHIMEENA M
+# REG NO:212223040159
 
 # AIM
 To create an AI character in Unreal Engine that roams randomly within a NavMesh area and chases
